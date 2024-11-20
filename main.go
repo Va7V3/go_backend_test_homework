@@ -1,5 +1,5 @@
 package main
-
+// Я в шоке
 import (
 	"fmt"
 )
